@@ -1,4 +1,4 @@
-# Nearest_Neighbor_Chain_Algorithm
+# Nearest Neighbor Chain Algorithm
 
 The Nearest Neighbor Chain Algorithm is a cluster analysis technique that enhances various agglomerative hierarchical clustering methods. 
 It offers a way to efficiently generate a hierarchy of point clusters by merging pairs of smaller clusters into larger clusters. 
